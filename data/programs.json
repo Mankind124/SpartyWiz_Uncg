@@ -1,0 +1,10 @@
+{
+  "Educational Research Methodology (ERM) M.S.": {
+    "min_credits": 33,
+    "catalog_url": "https://catalog.uncg.edu/education/erm/erm-ms/"
+  },
+  "Computer Science B.S.": {
+    "min_credits": 120,
+    "catalog_url": "https://catalog.uncg.edu/arts-sciences/computer-science/bs-computer-science/"
+  }
+}

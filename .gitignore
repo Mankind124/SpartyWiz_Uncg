@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.conda/
+.env
+.env.local
+
+# FAISS index
+faiss_index/
+index.faiss
+index.pkl
+
+# Data binaries (keep local; don’t commit huge files)
+data/**/*.pdf
+data/*.pdf
+data/**/*.zip
+data/*.zip
+data/**/*.7z
+data/*.7z
+data/**/*.tar
+data/*.tar
+data/**/*.tar.gz
+data/*.tar.gz
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Windows caches
+*.log
+nohup.out

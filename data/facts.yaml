@@ -1,0 +1,12 @@
+# Curated UNCG facts (update each term)
+# Keep concise values with a single authoritative source link.
+
+enrollment:
+  value: "~20,000 students"
+  as_of: "Fall 2024"
+  source: "https://www.uncg.edu/about/facts-and-figures/"
+
+student_faculty_ratio:
+  value: "17:1"
+  as_of: "Fall 2024"
+  source: "https://www.uncg.edu/about/facts-and-figures/"
