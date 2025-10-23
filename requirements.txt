@@ -1,3 +1,4 @@
+-c constraints.txt
 langchain==0.2.12
 langchain-community==0.2.11
 langchain-groq==0.1.5
