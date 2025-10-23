@@ -88,3 +88,5 @@ Only ingest official, public UNCG documents/URLs or content you have rights to u
 
 ## License
 MIT
+"# SpartyWiz_Uncg" 
+"# SpartyWiz_Uncg" 
